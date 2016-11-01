@@ -16,3 +16,13 @@ Discussions around this open-source policy are available here:
 https://forum.etalab.gouv.fr/c/gouvernement-ouvert/FOSS-contrib-policy
 
 Countries member of the OGP (and others) will have the possibility to instantiate this policy template locally to display a strong position for their civil servants.
+
+## Contribution policy template
+
+The template is available here: https://github.com/DISIC/foss-contrib-policy-template/blob/master/FOSS-contrib-policy-template.md
+
+Translations will be available later.
+
+## License
+
+No license has yet been chosen by the group
