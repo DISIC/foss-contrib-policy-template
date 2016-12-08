@@ -170,7 +170,7 @@ If the ecosystem is completely new, following licenses are recommended depending
 
 Creating a new license is very strongly discouraged and explicit approval is required from ENTITY_SUPPORT_EMAIL.
 
-CLA should not be enforced. Instead, a process like the [Developer’s Certificate of Origin](http://developercertificate.org/) (DCO), can be used to verify that developers agree with the project’s license, if so desired.
+A CLA should not be required for the project. Instead, a process like the [Developer’s Certificate of Origin](http://developercertificate.org/) (DCO), can be used to verify that developers agree with the project’s license, if so desired.
 
 ### Version control system
 
