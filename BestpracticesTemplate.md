@@ -6,9 +6,9 @@ This section will be aimed at developers and other technical practitioners withi
 
 Comments in the contributed code can be added in the following way:
 
-This code contributed by Jane Smith <jane.smith@government.xx>.
+`This code contributed by Jane Smith <jane.smith@government.xx>.
 
-© 2016 ENTITY_NAME.
+© 2016 ENTITY_NAME.`
 
 Refer to the contributing file of the project to have your name added to the project.
 
@@ -20,15 +20,15 @@ Use only one account but separate your governmental / professional and personal 
 
 * In the professional repository
 
-git config user.email <email@pro.gov>
+`git config user.email <email@pro.gov>`
 
 * In the personal repository
 
-git config user.email <email@private.xx>
+`git config user.email <email@private.xx>`
 
 Within the repository, you can check that your command was taken into account.
 
-git config --get user.email
+`git config --get user.email`
 
 ## Contributing to Existing Open Source Projects
 
@@ -92,9 +92,9 @@ Following licenses could be used depending on use cases and how resilient to inc
 
 For the part of the projects that consists of documents, wikis and non-code material, the recommendation at this time is to use the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).
 
-Enforcing DCO
+### Enforcing DCO
 
-Syncing git repositories
+### Syncing git repositories
 
 ### Recommended files in repositories. 
 
@@ -140,7 +140,7 @@ Their format may be defined in the license. If not, they should contain in this 
 
 Examples:
 
-Original software
+`Original software
 
 <AUTHORS>,
 
@@ -148,11 +148,11 @@ Copyright © 2013-2015 ENTITY_NAME
 
 SPDX-License-Identifier: GPL-3.0
 
-v1.0
+v1.0`
 
 or
 
-Derived software
+`Derived software
 
 <AUTHORS>
 
@@ -167,6 +167,7 @@ Based on <Name of the pre-existing software>
 Copyright © 2001-2003 ENTITY_NAME
 
 SPDX-License-Identifier: GPL-2.0
+`
 
 To specify the license of the file and project in an easily parsable format, please use the [SPDX terminology](https://spdx.org/licenses/) so that others can easily verify the license.
 
