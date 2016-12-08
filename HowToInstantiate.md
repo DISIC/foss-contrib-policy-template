@@ -24,15 +24,15 @@ This is an optional clause: In order to accomplish this, departments and agencie
 
 ### Contributing to existing projects
 
-Subcontractors contracted to develop parts or the entirety of the contribution of <ENTITY NAME> to a FOSS project, shall, by the terms of their contract(s) with <ENTITY NAME>, authorize their contribution to the FOSS project.
+Subcontractors contracted to develop parts or the entirety of the contribution of ENTITY_NAME to a FOSS project, shall, by the terms of their contract(s) with ENTITY_NAME, authorize their contribution to the FOSS project.
 
 ### Licenses
 
-<ENTITY NAME> should maintain and publish a list of accepted FOSS licenses among the FSF / OSI approved ones at the <ACCEPTED LICENSES URL>. 
+ENTITY_NAME should maintain and publish a list of accepted FOSS licenses among the FSF / OSI approved ones at the ACCEPTED_LICENSES_URL. 
 
 Another option would be to rely on those institutions and accept all FSF / OSI approved licenses.
 
-Guidance should be provided on <ENTITY NAME> use cases and corresponding software developped.
+Guidance should be provided on ENTITY_NAME use cases and corresponding software developped.
 
 ### Signing Contributor’s License Agreements
 
