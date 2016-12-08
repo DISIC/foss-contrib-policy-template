@@ -19,10 +19,5 @@ Countries member of the OGP (and others) will have the possibility to instantiat
 
 ## Contribution policy template
 
-The template is available here: https://github.com/DISIC/foss-contrib-policy-template/blob/master/FOSS-contrib-policy-template.md
+The template is available [here](Introduction.md) before finding a proper home
 
-Translations will be available later.
-
-## License
-
-No license has yet been chosen by the group
