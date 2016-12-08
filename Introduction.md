@@ -1,4 +1,4 @@
-Open source contribution policy template 
+# Open source contribution policy template 
 
 # Versioning
 
