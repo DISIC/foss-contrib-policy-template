@@ -20,13 +20,13 @@ This template allows public administrations to quickly instantiate a free / open
 
 The present document is structured in four parts:
 
-* General FOSS contribution policy template 
+* [General FOSS contribution policy template](FOSSPolicyTemplate.md) 
 
-* Best practices and examples aimed for developers within public administrations
+* [Best practices and examples aimed for developers within public administrations](BestpracticesTemplate.md)
 
-* How-to instantiate this template
+* [How-to instantiate this template](HowToInstantiate.md)
 
-* General governance of the present document and how to contribute
+* [General governance of the present document and how to contribute](Governance.md)
 
 ## A Note on Terminology
 
@@ -38,5 +38,5 @@ Because the structure and terminology of Public Administrations varies widely in
 
 ## License
 
-This document is released under **[C**C](https://creativecommons.org/publicdomain/zero/1.0/)**[**0](https://creativecommons.org/publicdomain/zero/1.0/).
+This document is released under [CC0](LICENSE.md).
 
