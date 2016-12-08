@@ -6,10 +6,11 @@ This section will be aimed at developers and other technical practitioners withi
 
 Comments in the contributed code can be added in the following way:
 
-`This code contributed by Jane Smith <jane.smith@government.xx>.
+```
+This code contributed by Jane Smith <jane.smith@government.xx>.
 
-© 2016 ENTITY_NAME.`
-
+© 2016 ENTITY_NAME.
+```
 Refer to the contributing file of the project to have your name added to the project.
 
 Even if the project is using the CC0 license, contributors’names should be tracked.
@@ -140,7 +141,8 @@ Their format may be defined in the license. If not, they should contain in this 
 
 Examples:
 
-`Original software
+```
+Original software
 
 <AUTHORS>,
 
@@ -148,11 +150,13 @@ Copyright © 2013-2015 ENTITY_NAME
 
 SPDX-License-Identifier: GPL-3.0
 
-v1.0`
+v1.0
+```
 
 or
 
-`Derived software
+```
+Derived software
 
 <AUTHORS>
 
@@ -167,7 +171,7 @@ Based on <Name of the pre-existing software>
 Copyright © 2001-2003 ENTITY_NAME
 
 SPDX-License-Identifier: GPL-2.0
-`
+```
 
 To specify the license of the file and project in an easily parsable format, please use the [SPDX terminology](https://spdx.org/licenses/) so that others can easily verify the license.
 
