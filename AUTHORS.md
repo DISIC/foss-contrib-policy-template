@@ -22,3 +22,4 @@ We thank the list of organisations that have contributed to this policy:
 
 * United States Government Office of the Chief Information Officer
 
+* Open Source Initiative (OSI)
