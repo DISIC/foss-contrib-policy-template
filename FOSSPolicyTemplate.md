@@ -48,9 +48,9 @@ Note that FOSS projects may include technical and functional documentation, user
 
 From this point forward, code that is developed by or for ENTITY_NAME shall be free/open source by default. Detailed requirements follow but at a high level:
 
-* Entities shall develop in the open wherever possible
+* Entities shall develop in the open wherever possible.
 
-* When releasing code agencies shall ensure that an appropriate FOSS license is applied.
+* When releasing code, agencies shall ensure that an appropriate FOSS license is applied.
 
 * When procuring the development of code, entities shall ensure that they secure copyright to and delivery of the code in order to facilitate releasing it as open source. 
 
