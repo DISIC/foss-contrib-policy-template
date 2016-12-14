@@ -173,7 +173,7 @@ Copyright © 2001-2003 ENTITY_NAME
 SPDX-License-Identifier: GPL-2.0
 ```
 
-To specify the license of the file and project in an easily parsable format, please use the [SPDX terminology](https://spdx.org/licenses/) so that others can easily verify the license.
+To specify the license of the file and project in an easily parsable format, please use the [SPDX License List short identifiers](https://spdx.org/licenses/) so that others can easily identify the license. For more information on this format, please see [SPDX specification, Appendix V: Using SPDX short identifiers in Source Files] (https://spdx.org/spdx-specification-21-web-version#h.twlc0ztnng3b).
 
 ### Validation and Quality Management
 
