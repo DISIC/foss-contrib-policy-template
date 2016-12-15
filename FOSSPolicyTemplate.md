@@ -158,7 +158,7 @@ At least two maintainers having full commit rights on a project (preferably from
 
 ### Licenses
 
-Whenever possible, the new project shall use a target license ensuring compatibility with corresponding FOSS projects ecosystem.
+Whenever possible, the new project shall use an outbound license ensuring compatibility with corresponding FOSS projects ecosystem.
 
 Any new FOSS project dependency shall be duly checked against its compatibility between the licenses of the various components of the project, including the target licence of the project’s code base.
 
@@ -170,7 +170,7 @@ If the ecosystem is completely new, following licenses are recommended depending
 
 Creating a new license is very strongly discouraged and explicit approval is required from ENTITY_SUPPORT_EMAIL.
 
-A CLA should not be required for the project. Instead, a process like the [Developer’s Certificate of Origin](http://developercertificate.org/) (DCO), can be used to verify that developers agree with the project’s license, if so desired.
+Contributions should be accepted under the same license as the project outbound license. A CLA should not be required for the project. Instead, a process like the [Developer’s Certificate of Origin](http://developercertificate.org/) (DCO), can be used to verify that developers agree with the project’s license, if so desired.
 
 ### Version control system
 
