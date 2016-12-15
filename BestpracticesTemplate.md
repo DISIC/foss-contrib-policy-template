@@ -103,9 +103,9 @@ Ensure you adhere to the minimum content requirements for establishing README, C
 
 * README: description of project
 
-* CONTRIBUTING: contributing guidelines, how to get involved
+* CONTRIBUTING: contributing guidelines, how to get involved, and identifiction of license or agreement under which contributions are accepted
 
-* LICENSE: license of project
+* LICENSE: full text of outbound license of project
 
 * MAINTAINERS: list of project maintainers, usually have formal voting privileges
 
