@@ -4,6 +4,8 @@ Instantiating this policy requires explicit preliminary work described in this s
 
 Below is a list of all <FIELDS> that need to be filled to instantiate the policy:
 
+* PUBLIC_ADMINISTRATION : the national, regional, or municipal government with authority to issue policy.
+
 * ENTITY_NAME : correspond to the public entity name
 
 * ENTITY_SUPPORT_EMAIL : email address that will provide support and can update the instantiate policy
