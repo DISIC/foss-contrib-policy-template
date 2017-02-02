@@ -9,7 +9,7 @@
  
 ## Context
 
-This template policy is drafted for the Open Government Partnership Summit that will take place in Paris, December 7-9, 2017.
+This template policy was drafted for the Open Government Partnership Summit that took place in Paris, December 7-9, 2016.
 https://fr.ogpsummit.org/osem/conference/ogp-summit/program/proposal/74
 
 Discussions around this open-source policy are available here:
