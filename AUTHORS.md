@@ -2,9 +2,29 @@
 
 We thank the list of organisations that have contributed to this policy:
 
-* Secrétariat général pour la modernisation de l’action publique France (SGMAP)
+Governments
+
+* United States Government Office of the Chief Information Officer
+
+* Secrétariat général pour la modernisation de l’action publique France (SGMAP / DINSIC)
 
 * Federal Public Service ICT Belgium (Fedict)
+
+* Statens inköpscentral Sweden
+
+* Government of Bulgaria
+
+* Republic of Estonia, The Information System Authority (RIA)
+
+* Shared Services Canada / Government of Canada
+
+* Government Digital Service, Cabinet Office, UK
+
+* Agenzia per l'Italia Digitale (AGID), Italy
+
+* City of Rome, Italy
+
+NGO
 
 * The Linux Foundation (LF)
 
@@ -12,14 +32,28 @@ We thank the list of organisations that have contributed to this policy:
 
 * Free Software Foundation Europe (FSFE)
 
-* Republic of Estonia, The Information System Authority (RIA)
+* Open Source Initiative (OSI)
 
-* Statens inköpscentral Sweden
+* Mozilla
 
-* Inria
+IGO
+
+* UNESCO : United Nations Educational Scientific and Cultural Organization
+
+* OECD : Organisation for Economic Co-operation and Development
+
+Private sector: 
 
 * Google’s Open Source Programs Office
 
-* United States Government Office of the Chief Information Officer
+* Inno3
 
-* Open Source Initiative (OSI)
+* Linagora
+
+* Github
+
+* Red Hat
+
+Academic sector: 
+
+* Inria
