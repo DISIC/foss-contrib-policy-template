@@ -26,6 +26,8 @@ Globally this policy proposes to:
 
 This policy should be applied by all civil servants of PUBLIC_ADMINISTRATION and related contractors and subcontractors.
 
+This policy only applies to works for which PUBLIC_ADMINISTRATION owns the copyright according to the applicable law or enough rights provided by relevant licences. The Best Practices document provides clear definitions and examples of what falls within this scope.
+
 Entities belonging to ENTITY_NAME may instantiate an inherited version of this policy.
 
 Open-sourcing existing code is another process and requires additional steps that are out of the scope of this policy. Please refer to the ENTITY_SUPPORT_EMAIL for more information.
@@ -77,46 +79,6 @@ This distinction should be made through the email address used to submit code:
 Anonymous / generic email contribution should be avoided: managers with civil servants who do not want to release their code should use their own email address instead. 
 
 In addition, civil servants whose employment is sensitive information are to be given cover identities to enable them to contribute to FOSS projects without endangering their safety; equally, contractor employees who have a legal right to keep the fact of their employment non-public and wish to do so must adopt a pseudonym for contributing to ENTITY_NAME projects. In these cases, the same identity must be used by the contributor for all ENTITY_NAME projects to facilitate communications with external developers.
-
-### Professional contribution
-
-Is presumed to belong to ENTITY_NAME, any software designed / created / developed by a civil servant or subcontractor:
-
-	
-
-* during his working period; and/or
-
-* using technical means provided by the Entity ; and/or	
-
-* designed / created / developed following instructions given by the Entity; and /or
-
-* directly or indirectly related to project supported in part or in whole by the organization; and/or
-
-* linkable to an inventive step in the course of the collaborator professional activity for the organization; and/or
-
-* which design / creation / development is part of the purpose of the organization.
-
-Works designed / created / developed outside working hours are affected by these rules.
-
-When a collaborator designs / creates / develops a work filling one or more of these conditions, and contributes this work to a project, it is in fact the Entity which designs / creates / develops and contributes said work to the project.  
-
-### Personal work
-
-Contribution by a civil servant is considered as private and personal if it fulfills all of the cumulative conditions hereafter:
-
-1. it has been designed / created / developed out of working periods, without using any means provided by the Entity ; AND
-
-2. it is not designed / created / developed upon direct nor indirect instructions by the Entity ; AND
-
-3. it cannot be linked to a project directly or indirectly supported in part or in whole by the Entity; AND
-
-4. it is not linkable to an inventive step in the course of the collaborator professional activity for the Entity ; AND
-
-5. its design / creation / development is not part of the purpose of the Entity..
-
-In cases where a civil servant is unsure whether their personal contributions meet these criteria they can consult with  ENTITY_SUPPORT_EMAIL.
-
-Subcontractors should refer to their employer policy.
 
 ### Support
 
